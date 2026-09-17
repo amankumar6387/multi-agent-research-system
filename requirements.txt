@@ -1,0 +1,29 @@
+# Core LangChain / LCEL / Agents
+langchain>=1.0,<2.0
+langchain-core>=1.0,<2.0
+
+# Groq LLM
+langchain-groq>=1.0,<2.0
+
+# Multi-agent orchestration
+langgraph>=1.0,<2.0
+
+# Tavily web-search tool
+langchain-tavily>=0.2,<1.0
+tavily-python>=0.7,<1.0
+
+# Web scraping / BeautifulSoup
+beautifulsoup4>=4.12,<5.0
+requests>=2.31,<3.0
+
+# Environment variables
+python-dotenv>=1.0,<2.0
+
+# Data validation / structured agent outputs
+pydantic>=2.7,<3.0
+
+# Terminal UI / formatting
+rich>=13.7,<14.0
+
+# Streamlit Web UI
+streamlit>=1.40,<2.0
